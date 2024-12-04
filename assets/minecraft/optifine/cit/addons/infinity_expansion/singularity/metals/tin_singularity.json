@@ -1,0 +1,7 @@
+{
+    "parent":"block/cube_all",
+	"author": "winicu",
+    "textures": {
+        "all": "tin_singularity"
+    }
+}
